@@ -1,0 +1,65 @@
+Data: 02/08/2024 09:17:40
+Azeite - 5 unidades
+Total: R$75,00
+
+
+Data: 02/08/2024 10:02:54
+Arroz - 2 unidades
+Leite - 2 unidades
+Total: R$16,00
+
+
+Data: 02/08/2024 10:05:26
+Arroz - 1 unidades
+Macarrão - 3 unidades
+Total: R$14,50
+
+
+Data: 02/08/2024 10:45:08
+Arroz - 1 unidades
+Azeite - 5 unidades
+Feijão - 4 unidades
+Total: R$97,70
+
+
+Data: 02/08/2024 10:53:46
+Leite - 4 unidades
+Feijão - 1 unidades
+Azeite - 4 unidades
+Total: R$74,30
+
+
+Data: 02/08/2024 10:56:13
+Arroz - 2 unidades
+Leite - 4 unidades
+Total: R$21,00
+
+
+Data: 02/08/2024 11:05:02
+Arroz - 4 unidades
+Leite - 2 unidades
+Total: R$27,00
+
+
+Data: 02/08/2024 11:08:41
+Arroz - 3 unidades
+Leite - 23 unidades
+Feijão - 3 unidades
+Azeite - 23 unidades
+Total: R$431,90
+
+
+Data: 02/08/2024 11:43:01
+Macarrão - 4 unidades
+Feijão - 10 unidades
+Azeite - 100 unidades
+Total: R$1555,00
+
+
+Data: 02/08/2024 11:46:01
+Arroz - 4 unidades
+Leite - 3 unidades
+Azeite - 22 unidades
+Total: R$359,50
+
+

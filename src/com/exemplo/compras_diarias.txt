@@ -1,0 +1,30 @@
+Data: 02/08/2024 14:45:03
+Feijão - 3 unidades
+Leite - 2 unidades
+Azeite - 5 unidades
+Total: R$92,90
+
+
+Data: 02/08/2024 15:02:40
+Azeite - 80 unidades
+Leite - 23 unidades
+Total: R$1257,50
+
+Pago: R$1257,50
+Troco: R$0,00
+
+
+Data: 02/08/2024 15:12:00
+Azeite - 580 unidades
+Total: R$8700,00
+
+
+Data: 02/08/2024 15:13:38
+Arroz - 2 unidades
+Feijão - 45 unidades
+Total: R$204,50
+
+Pago: R$300,00
+Troco: R$95,50
+
+
